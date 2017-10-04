@@ -3,4 +3,4 @@ function BasicCard(front,back){
   this.back = back;  //contains text on the back of the card
 }
 
-module.export = BasicCard;
+module.exports = BasicCard;
